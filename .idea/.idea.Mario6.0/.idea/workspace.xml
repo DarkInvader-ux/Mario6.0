@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03c030d-d51f-4444-a8f2-cef1df9d900e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Cameras/Scripts/AbstractTargetFollower.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cameras/Scripts/AbstractTargetFollower.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/New Material 1.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Insıde.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Insıde.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mario/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mario/NavMesh.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MarioThrowingCap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MarioThrowingCap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Mind.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Mind.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +44,11 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Cameras/Scripts/AbstractTargetFollower.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MarioThrowingCap.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Mind.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyController2.0.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mind.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +100,7 @@
       <workItem from="1610479307698" duration="79000" />
       <workItem from="1610479714107" duration="98000" />
       <workItem from="1610541324082" duration="3463000" />
+      <workItem from="1610548962960" duration="947000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,7 @@ using UnityStandardAssets.Cameras;
 
 public class Mind : MonoBehaviour
 {
+    public GameObject Frog;
     public FreeLookCam Cam;
     public static Mind Instance;
     public GameObject Mario;
@@ -14,6 +15,8 @@ public class Mind : MonoBehaviour
     [SerializeField] private GameObject CurrentPlayer;
     void Start()
     {
+        Frog.GetComponent<PlayerScript>().enabled = false;
+        
         for (int i = 1; i < Players.Length; i++)
         {
             Players[i].GetComponent<newthirdperson>().enabled = false;
@@ -35,6 +38,8 @@ public class Mind : MonoBehaviour
         CurrentPlayer.GetComponent<newthirdperson>().enabled = true;
         Debug.Log(CurrentPlayer);
         Mario.SetActive(false);
+        Frog.GetComponent<PlayerScript>().enabled = true;
+        
     }
 
 }
