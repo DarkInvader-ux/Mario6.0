@@ -7,7 +7,7 @@ using DG.Tweening;
 
 public class MarioThrowingCap : MonoBehaviour
 {
-    //public Transform ThrowPoint;
+    public Transform ThrowPoint;
     public TrailRenderer CapTrailRenderer;
     public ParticleSystem CapTrail;
     [Header("Public References")]
@@ -61,15 +61,18 @@ public class MarioThrowingCap : MonoBehaviour
 
     void ThrowingCap()
     {
+        
         CapTrailRenderer.enabled = true;
 
         Sequence throwSequence = DOTween.Sequence();
-
+        Cap.position = ThrowPoint.position;
+        
         //Throw the Cap
         throwSequence.Append(Cap.DOMove(transform.position + transform.forward * 25, throwDuration));
-
+         
         //Scale Cap
         throwSequence.Join(Cap.DOScale(1.6f, throwDuration));
+        
 
         //Mario Spinning
         //throwSequence.Join(Mario.DORotate(new Vector3(0, 360f, 0), spinningDuration, RotateMode.FastBeyond360));
