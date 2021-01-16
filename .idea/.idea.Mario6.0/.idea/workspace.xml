@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03c030d-d51f-4444-a8f2-cef1df9d900e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NPC.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NPC.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +52,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FrogLevEnding.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Dialog_Manager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NPC.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC.cs" />
       </list>
     </option>
   </component>
@@ -112,6 +110,7 @@
       <workItem from="1610792639013" duration="1158000" />
       <workItem from="1610794026737" duration="1430000" />
       <workItem from="1610798341727" duration="3162000" />
+      <workItem from="1610803686461" duration="1058000" />
     </task>
     <servers />
   </component>
