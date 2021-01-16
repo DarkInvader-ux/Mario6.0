@@ -21,17 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f03c030d-d51f-4444-a8f2-cef1df9d900e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BonnetonFemale.FBX" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BonnetonFemale.FBX.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Frog.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Frog.fbx.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/newthirdperson.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/newthirdperson.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrogLevEnding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -57,10 +50,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Mind.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/lilacmoon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PurpCoin.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/newthirdperson.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EndGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FrogLevEnding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dialog_Manager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NPC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreSystem.cs" />
       </list>
     </option>
   </component>
@@ -116,6 +111,7 @@
       <workItem from="1610791879684" duration="623000" />
       <workItem from="1610792639013" duration="1158000" />
       <workItem from="1610794026737" duration="1430000" />
+      <workItem from="1610798341727" duration="3162000" />
     </task>
     <servers />
   </component>

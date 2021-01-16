@@ -46,6 +46,7 @@
           <e p="Coin.cs" t="Include" />
           <e p="CoinCollector.cs" t="Include" />
           <e p="damage.cs" t="Include" />
+          <e p="Dialog_Manager.cs" t="Include" />
           <e p="EndGame.cs" t="Include" />
           <e p="EnemyControl.cs" t="Include" />
           <e p="EnemyController.cs" t="Include" />
@@ -58,6 +59,7 @@
           <e p="Mind.cs" t="Include" />
           <e p="Moon.cs" t="Include" />
           <e p="newthirdperson.cs" t="Include" />
+          <e p="NPC.cs" t="Include" />
           <e p="playerhealth.cs" t="Include" />
           <e p="PlayerManager.cs" t="Include" />
           <e p="PlayerScript.cs" t="Include" />
