@@ -51,6 +51,7 @@
           <e p="EnemyControl.cs" t="Include" />
           <e p="EnemyController.cs" t="Include" />
           <e p="EnemyPatrol.cs" t="Include" />
+          <e p="fenceController.cs" t="Include" />
           <e p="frog.cs" t="Include" />
           <e p="frogactive.cs" t="Include" />
           <e p="FrogLevEnding.cs" t="Include" />
