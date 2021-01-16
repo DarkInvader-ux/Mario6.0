@@ -52,6 +52,7 @@
           <e p="EnemyPatrol.cs" t="Include" />
           <e p="frog.cs" t="Include" />
           <e p="frogactive.cs" t="Include" />
+          <e p="FrogLevEnding.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="MarioThrowingCap.cs" t="Include" />
           <e p="Mind.cs" t="Include" />
@@ -61,6 +62,7 @@
           <e p="PlayerManager.cs" t="Include" />
           <e p="PlayerScript.cs" t="Include" />
           <e p="possesion.cs" t="Include" />
+          <e p="PurpCoin.cs" t="Include" />
           <e p="pushback.cs" t="Include" />
           <e p="ScoreSystem.cs" t="Include" />
           <e p="Smacked.cs" t="Include" />
