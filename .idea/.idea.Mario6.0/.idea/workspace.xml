@@ -21,7 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="f03c030d-d51f-4444-a8f2-cef1df9d900e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mario6.0/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ddixlsk-f15c1636-7756-477e-b188-52747c668ab7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/ddixlsk-f15c1636-7756-477e-b188-52747c668ab7.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mario.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NPC.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NPC/NPC.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NPC/NPC.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShineGrandEmpty.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ShineGrandEmpty.fbx.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +38,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FrogLevEnding.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NPC.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -113,6 +115,7 @@
       <workItem from="1610798341727" duration="3162000" />
       <workItem from="1610803686461" duration="1058000" />
       <workItem from="1610805829115" duration="176000" />
+      <workItem from="1610811232050" duration="215000" />
     </task>
     <servers />
   </component>

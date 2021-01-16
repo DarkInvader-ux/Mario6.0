@@ -41,36 +41,56 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="BridgeDisable.cs" t="Include" />
-          <e p="characterpossesion.cs" t="Include" />
-          <e p="Coin.cs" t="Include" />
-          <e p="CoinCollector.cs" t="Include" />
-          <e p="damage.cs" t="Include" />
-          <e p="Dialog_Manager.cs" t="Include" />
-          <e p="EndGame.cs" t="Include" />
-          <e p="EnemyControl.cs" t="Include" />
-          <e p="EnemyController.cs" t="Include" />
-          <e p="EnemyPatrol.cs" t="Include" />
-          <e p="fenceController.cs" t="Include" />
-          <e p="frog.cs" t="Include" />
-          <e p="frogactive.cs" t="Include" />
-          <e p="FrogLevEnding.cs" t="Include" />
-          <e p="MainMenu.cs" t="Include" />
-          <e p="MarioThrowingCap.cs" t="Include" />
-          <e p="Mind.cs" t="Include" />
-          <e p="Moon.cs" t="Include" />
-          <e p="newthirdperson.cs" t="Include" />
-          <e p="NPC.cs" t="Include" />
-          <e p="playerhealth.cs" t="Include" />
-          <e p="PlayerManager.cs" t="Include" />
-          <e p="PlayerScript.cs" t="Include" />
-          <e p="possesion.cs" t="Include" />
-          <e p="PurpCoin.cs" t="Include" />
-          <e p="pushback.cs" t="Include" />
-          <e p="ScoreSystem.cs" t="Include" />
-          <e p="Smacked.cs" t="Include" />
-          <e p="SwitchCharacterScript.cs" t="Include" />
-          <e p="world.cs" t="Include" />
+          <e p="CharacterControl" t="Include">
+            <e p="characterpossesion.cs" t="Include" />
+            <e p="EnemyControl.cs" t="Include" />
+            <e p="EnemyController.cs" t="Include" />
+            <e p="EnemyPatrol.cs" t="Include" />
+            <e p="frog.cs" t="Include" />
+            <e p="frogactive.cs" t="Include" />
+            <e p="MarioThrowingCap.cs" t="Include" />
+            <e p="Mind.cs" t="Include" />
+            <e p="newthirdperson.cs" t="Include" />
+            <e p="PlayerScript.cs" t="Include" />
+            <e p="possesion.cs" t="Include" />
+            <e p="SwitchCharacterScript.cs" t="Include" />
+          </e>
+          <e p="Coin" t="Include">
+            <e p="Coin.cs" t="Include" />
+            <e p="CoinCollector.cs" t="Include" />
+          </e>
+          <e p="Damage" t="Include">
+            <e p="damage.cs" t="Include" />
+            <e p="Smacked.cs" t="Include" />
+          </e>
+          <e p="Dialogue" t="Include">
+            <e p="Dialog_Manager.cs" t="Include" />
+            <e p="NPC.cs" t="Include" />
+          </e>
+          <e p="Health" t="Include">
+            <e p="playerhealth.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="PlayerManager.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="MainMenu.cs" t="Include" />
+          </e>
+          <e p="Moon" t="Include">
+            <e p="Moon.cs" t="Include" />
+          </e>
+          <e p="ObjectController" t="Include">
+            <e p="BridgeDisable.cs" t="Include" />
+            <e p="EndGame.cs" t="Include" />
+            <e p="fenceController.cs" t="Include" />
+            <e p="FrogLevEnding.cs" t="Include" />
+          </e>
+          <e p="PurpleCoin" t="Include">
+            <e p="PurpCoin.cs" t="Include" />
+          </e>
+          <e p="ScoreSystem" t="Include">
+            <e p="ScoreSystem.cs" t="Include" />
+          </e>
         </e>
         <e p="Standard Assets" t="Include">
           <e p="CrossPlatformInput" t="Include">
